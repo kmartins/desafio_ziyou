@@ -3,11 +3,9 @@
 Aplicativo desenvolvido em `Flutter` exclusivamente para o desafio da `ZiYou`.
 
 O aplicativo consiste em um vídeo player onde é carregado um vídeo padrão e também podemos conectar esse vídeo em um Chrome Cast para isso é listando os dispositivos Chrome Cast na rede, após selecionar um, o vídeo irá ser carregado no dispositivo.
-Há ainda a possibilidade de controlar o player, como dar play, pause e posição do vídeo através do aplicativo refletindo diretamente no dispositivo Chrome Cast. Também é possível descon
+Há ainda a possibilidade de controlar o player, como dar play, pause e posição do vídeo através do aplicativo refletindo diretamente no dispositivo Chrome Cast. Também é possível desconectar um dispositivo.
 
 [Aplicativo](https://github.com/user-attachments/assets/bb6f3f7c-4193-475c-aa81-23e9c7ff202b)
-
-ectar um dispositivo.
 
 ## Plataformas
 
