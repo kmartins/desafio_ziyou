@@ -1,0 +1,57 @@
+name: desafio_ziyou
+description: "Projeto para o desafio da ZiYou"
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=3.24.0 <3.25.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_mobx: ^2.2.1+1
+  get_it: ^8.0.2
+  video_player: ^2.9.2
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter  
+  mocktail: ^1.0.4
+  test: ^1.25.7
+
+flutter:
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
